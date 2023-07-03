@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __title__ = "CloudHunter"
-__url__ = "https://github.com/belane/CloudHunter"
+__url__ = "https://github.com/matitanium/CloudHunter"
 __version__ = "0.7.1"
 
 import re
